@@ -1,0 +1,31 @@
+
+.navbar-brand{
+    font-family: 'Raleway', sans-serif;
+    font-size:400px;
+}
+#Re{
+    font-family: 'Raleway',sans-serif;
+    font-size: larger;
+    font-weight: bold;
+    background-color: #fc9003;
+    color:white;
+    float: right;
+    margin-left: 500px;;
+}
+h1{
+    font-family:'Raleway',sans-serif;
+}
+.leadmd-4{
+    font-family: 'Roboto Slab', serif;
+}
+.carousel-item active{
+    position: relative;
+}
+.Quote{
+    position: absolute;
+    bottom: 30px;
+    left: 20px;
+    color :white;
+
+
+}
