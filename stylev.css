@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    size: 1.5rem;
+    font-family: 'Raleway', sans-serif;
+}
+h2{
+    font-family: 'Roboto Slab', serif;
+}
+.but{
+    text-align: center;
+}
+h3{
+    font-family: 'Roboto Slab', serif;
+}
+#Re{
+    font-family: 'Raleway',sans-serif;
+    font-size: larger;
+    font-weight: bold;
+    background-color: #fc9003;
+    color:white;
+    float: right;
+    margin-left: 500px;;
+}

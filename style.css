@@ -1,0 +1,25 @@
+
+.f1{
+    margin: 10px;
+    text-align: left;
+    border-style: solid;
+}
+
+h2{
+    font-family:'Raleway', sans-serif; 
+    font-size: x-large;
+}
+.Tab
+{
+    font-family: 'Roboto Slab', serif;
+    align-items: center;
+}
+#Re{
+    font-family: 'Raleway',sans-serif;
+    font-size: larger;
+    font-weight: bold;
+    background-color: #fc9003;
+    color:white;
+    float: right;
+    margin-left: 500px;;
+}
